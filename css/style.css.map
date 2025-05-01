@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/michaelimevbore/Desktop/Repos/hugo-mock-landing-page",
+	"sourceRoot": "/Users/michaelimevbore/Desktop/Repos/docky-landing-page-new",
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_functions.scss",

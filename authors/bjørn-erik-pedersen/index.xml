@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bjørn Erik Pedersen on Hugo Bootstrap Theme</title>
+    <title>Bjørn Erik Pedersen on Docky</title>
     <link>http://localhost:1313/hugo-bootstrap-theme/authors/bj%C3%B8rn-erik-pedersen/</link>
-    <description>Recent content in Bjørn Erik Pedersen on Hugo Bootstrap Theme</description>
+    <description>Recent content in Bjørn Erik Pedersen on Docky</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 21:47:20 -0500</lastBuildDate>
+    <copyright>CIS 3500 Final Project by George Botros, Christian Ishimwe, Matthew Yin, Michael Imevbore</copyright>
+    <lastBuildDate>Tue, 29 Apr 2025 13:59:03 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-bootstrap-theme/authors/bj%C3%B8rn-erik-pedersen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo v0.119.0</title>
